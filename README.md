@@ -74,6 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 Neste Desafio de Projeto vamos criar juntos uma calculadora utilizando React. Você irá desenvolver, na prática, todos os componentes e a interface da calculadora, aplicando os conceitos aprendidos durante o módulo.
 
 Foram adicionados os botões:
+- Multiplicação
+- Divisão
 - Potenciação
 - porcentagem
 - virgula
